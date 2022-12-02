@@ -4,10 +4,10 @@ The purpose of this project was to use the culmination of my studies in a projec
 This project was done in groups of three and a summary of the tasks were: 
   * *Remove any malicous data on the machines that were deployed to the team* -------------------------
   * *Establish a DNS server and use Active Directory* -------------------------------------------------
-  * *Configure a network which was based on a preconfigured network structure*  DONE ++++++++++++++++++
-  * *Configure machines to communicate with each other and establish internet connections*  DONE ++++++
+  * *Configure a network which was based on a preconfigured network structure* ++++++++++++++++++++++++
+  * *Configure machines to communicate with each other and establish internet connections* ++++++++++++
   * Create three goods and three services
-  * *Install and configure a database to work with the webserver* -------------------------------------
+  * *Install and configure a database to work with the webserver* +++++++++++++++++++++++++++++++++++++
   * *Host a website which would sell these goods and services to customers* ---------------------------
   * Create backups of the database server
   * Deploy an email server which will be used to communicate with the customers
