@@ -65,7 +65,7 @@ My solution:
  
 ** At this point all devices can communicate with each other and can access the internet **
 
-## Install and Config Database Server
+## Install and Configure the Database Server
 I chose to use mySQL as the dtabase server as it is compatible with wordpress (mentioned in [website] section ) and also found it easier to debug any issues if I used a DBMS that I'm familiar with
 
 
@@ -78,8 +78,11 @@ I chose to use mySQL as the dtabase server as it is compatible with wordpress (m
        - [mySql Remote Access](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
   3. Give permissions to the webserver mySQL user to access the wordpress database
   4. On the Webserver machine verify proper configuration by using HeidiSQL
-  [](https://github.com/me14606/4910_Capstone/blob/main/Images/heidi_web.png?raw=true)
-  [](https://github.com/me14606/4910_Capstone/blob/main/Images/heidi_web2.png?raw=true)
+  > Accessing mySQL hosted on database server from webserver machine
+  ![](https://github.com/me14606/4910_Capstone/blob/main/Images/heidi_web.png?raw=true)
+  
+  > Success!
+  ![](https://github.com/me14606/4910_Capstone/blob/main/Images/heidi_web2.png?raw=true)
 
 
 
