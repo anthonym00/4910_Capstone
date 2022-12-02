@@ -125,8 +125,12 @@ Wordpress was used to create our website for its rapid development cycle, ease o
 
 ## Vulnerability Scans / Network Hardening
 1. Run Vulnerability Scans
+   - Theses Nmap scans were run from the kali machine on the WAN segment of the network
    - Due to the length of the reports they will be linked below
-   - [Vulnerability Reports Before](https://github.com/me14606/4910_Capstone/tree/main/Vulnerablility%20Reports%20Before)
+     - [Vulnerability Reports Before](https://github.com/me14606/4910_Capstone/tree/main/Vulnerablility%20Reports%20Before)
+
+2. Close Ports
+   
 
 
   
