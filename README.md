@@ -109,7 +109,7 @@ Wordpress was used to create our website for its rapid development cycle, ease o
 
 4. Adding products/services
 
-> Shop: Producs/Services
+> Shop: Products/Services
 ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/shop.png?raw=true)
 
 
@@ -119,8 +119,7 @@ Wordpress was used to create our website for its rapid development cycle, ease o
 ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/contact.png?raw=true)
 
 
-6.
-
+***At this time the website is complete**
 
 
   
