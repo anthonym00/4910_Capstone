@@ -33,7 +33,8 @@ The image below was the network that was given to us. The IP addresses on the di
 
 The difficult part of networking was figuing out which interface was facing which way, the diagram above was deceptive/inaccurate which made it quite difficult to configure the network. 
 
-Our Network Diagram
+> Our Network Diagram
+![](https://github.com/me14606/4910_Capstone/blob/main/Images/our_network.png?raw=true)
 
 My solution: 
  1. Configure the machines ip addresses and DNS servers (DNS explained in a later section)
