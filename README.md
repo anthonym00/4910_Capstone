@@ -8,7 +8,7 @@ This project was done in groups of three and a summary of the tasks were:
   * *Configure machines to communicate with each other and establish internet connections* ++++++++++++
   * Create three goods and three services
   * *Install and configure a database to work with the webserver* +++++++++++++++++++++++++++++++++++++
-  * *Host a website which would sell these goods and services to customers* ---------------------------
+  * *Host a website which would sell these goods and services to customers* +++++++++++++++++++++++++++
   * Create backups of the database server
   * Deploy an email server which will be used to communicate with the customers
   * Have network monitoring software which will allow the team to identify threats / unusual traffic
@@ -122,6 +122,8 @@ Wordpress was used to create our website for its rapid development cycle, ease o
 7. Test contact us form for proper functionality
 
 ***At this time the website is complete**
+
+## Vulnerability Scans / Network Hardening
 
 
   
