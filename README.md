@@ -48,22 +48,27 @@ My solution:
  3. Configure router/firewall one device at a time
     - I would configure one interface at a time pinging to a device and vice versa to ensure proper configuration
  4. On the routers and firewall I would set up static routes to ensure proper routing of traffic through the different subnets
+ ![](https://github.com/me14606/4910_Capstone/blob/main/Images/s_routes_LAN.png?raw=true)
+ ![](https://github.com/me14606/4910_Capstone/blob/main/Images/s_routes_WAN.png?raw=true)
  5. Configure the firewall to allow all traffic for the development purposes
     - Firewall rules were created after development was complete and the network hardening phase started
- 6. 
- 7.
- 8.
- 9.
- 10.
- 11.
- 12.
- 13.
- 14.
+ 6. Configure NAT on the WAN router to allow traffic to flow out from our internal network
+ ![](https://github.com/me14606/4910_Capstone/blob/main/Images/NAT_WAN.png?raw=true)
+ 7. Test all devices in every subnet including routers for connectivity internally and to the internet
+    - Tools used: 
+      -ping (using ip addresses) 
+      -nslookup (resolve dns) 
+      -curl
+ 8. Create snapshots of all machines (Backup) 
+ 
+** At this point all devices can communicate with each other and can access the internet **
+
+##POOP
 
 
 
 
 
-therefore it took a lot of trial and error to properly configure the network. My attempt to resolve this issu
+
   
  
