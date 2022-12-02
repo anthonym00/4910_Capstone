@@ -48,11 +48,13 @@ My solution:
  3. Configure router/firewall one device at a time
     - I would configure one interface at a time pinging to a device and vice versa to ensure proper configuration
  4. On the routers and firewall I would set up static routes to ensure proper routing of traffic through the different subnets
+ > LAN/WAN Router Static Routes
  ![](https://github.com/me14606/4910_Capstone/blob/main/Images/s_routes_LAN.png?raw=true)
  ![](https://github.com/me14606/4910_Capstone/blob/main/Images/s_routes_WAN.png?raw=true)
  5. Configure the firewall to allow all traffic for the development purposes
     - Firewall rules were created after development was complete and the network hardening phase started
  6. Configure NAT on the WAN router to allow traffic to flow out from our internal network
+ > WAN NAT Configuration  
  ![](https://github.com/me14606/4910_Capstone/blob/main/Images/NAT_WAN.png?raw=true)
  7. Test all devices in every subnet including routers for connectivity internally and to the internet
     - Tools used: 
@@ -76,8 +78,8 @@ I chose to use mySQL as the dtabase server as it is compatible with wordpress (m
        - [mySql Remote Access](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
   3. Give permissions to the webserver mySQL user to access the wordpress database
   4. On the Webserver machine verify proper configuration by using HeidiSQL
-  []()
-  []()
+  [](https://github.com/me14606/4910_Capstone/blob/main/Images/heidi_web.png?raw=true)
+  [](https://github.com/me14606/4910_Capstone/blob/main/Images/heidi_web2.png?raw=true)
 
 
 
