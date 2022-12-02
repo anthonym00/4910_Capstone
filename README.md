@@ -89,9 +89,34 @@ I chose to use mySQL as the dtabase server as it is compatible with wordpress (m
   6. Once complete, it was time to set up the website
 
 ## Website Setup 
+Wordpress was used to create our website for its rapid development cycle, ease of use, support, and security
+1. Choosing theme: Deli
+![Theme](https://github.com/me14606/4910_Capstone/blob/main/Images/wp_theme.png?raw=true)
+2. Installing plugins
+   - Plugins used: 
+     - Woocommerce: Allows the user to add products through the admin panel and seamlessly add them to the website 
+     - WooCommerce Payments: A payment processing plugin 
+     - Jetpack: A required plugin for various plugins to work
+     - Contact Form 7: Used to create contact forms 
+3. Customizing website
 
 
+![Home Page](https://github.com/me14606/4910_Capstone/blob/main/Images/home_page.png?raw=true)
 
+
+4. Adding products/services
+
+
+![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/shop.png?raw=true)
+
+
+5. Creating contact form
+
+
+![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/contact.png?raw=true)
+
+
+6.
 
 
 
