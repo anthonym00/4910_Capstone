@@ -118,6 +118,8 @@ Wordpress was used to create our website for its rapid development cycle, ease o
 > Contact us form 
 ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/contact.png?raw=true)
 
+6. Test cart and checkout features for proper functionality
+7. Test contact us form for proper functionality
 
 ***At this time the website is complete**
 
