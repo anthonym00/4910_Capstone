@@ -103,19 +103,19 @@ Wordpress was used to create our website for its rapid development cycle, ease o
 
 3. Customizing website
 
-
+> Home Page
 ![Home Page](https://github.com/me14606/4910_Capstone/blob/main/Images/home_page.png?raw=true)
 
 
 4. Adding products/services
 
-
+> Shop: Producs/Services
 ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/shop.png?raw=true)
 
 
 5. Creating contact form
 
-
+> Contact us form 
 ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/contact.png?raw=true)
 
 
