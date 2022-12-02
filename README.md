@@ -1,5 +1,5 @@
 # Enterprise System Administration: CAPSTONE
-The purpose of this project was to use the culmination of of my studies and apply them in a project which will serve the purpose of gaining hands on knowledege to what I've learned
+The purpose of this project was to use the culmination of my studies in a project which will allow me to apply what I learned in a hands on environment 
 ## Project Summary
 This project was done in groups of three and a summary of the tasks were: 
   * *Remove any malicous data on the machines that were deployed to the team* -------------------------
