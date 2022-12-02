@@ -70,10 +70,14 @@ I chose to use mySQL as the dtabase server as it is compatible with wordpress (m
  Installing mySQL on RHEL Client: 
   1. Using the documetation linked below I successfully set up mySQL on RHEL
      - [Installing mySQL on Red Hat Enterprise Linux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/configuring_and_using_database_servers/assembly_using-mysql_configuring-and-using-database-servers)
+  3. Create database that will be used strictly for the wordpress website that will host our products/services
   2. I wanted to create a seperate mySQL user so the webserver would be the only user who could have access to the database using the new user account
-     - This account will have reduced permissions to reduce the amount of data leaked if a breach occurs
      - Using the link below I created a user account which is only accessible by a specific ip, in this case from the webservers ip address
-       -[mySql Remote Access](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
+       - [mySql Remote Access](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
+  3. Give permissions to the webserver mySQL user to access the wordpress database
+  4. On the Webserver machine verify proper configuration by using HeidiSQL
+  []()
+  []()
 
 
 
