@@ -1,4 +1,4 @@
-# Enterprise System Administration CAPSTONE
+# Enterprise System Administration: CAPSTONE
 The purpose of this project was to use the culmination of of my studies and apply them in a project which will serve the purpose of gaining hands on knowledege to what I've learned
 ## Project Summary
 This project was done in groups of three and a summary of the tasks were: 
