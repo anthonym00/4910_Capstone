@@ -83,6 +83,12 @@ I chose to use mySQL as the dtabase server as it is compatible with wordpress (m
   
   > Success!
   ![](https://github.com/me14606/4910_Capstone/blob/main/Images/heidi_web2.png?raw=true)
+  5. Installing wordpress on the webserver
+     - No screenshots were taken for this step, but the tutorial below accurately explains the process I used
+       - [Installing and configuring Wordpress on Windows IIS ](https://www.microhost.com/docs/tutorial/how-to-install-wordpress-on-iis-in-windows-server-2019/)
+  6. Once complete, it was time to set up the website
+
+## Website Setup 
 
 
 
