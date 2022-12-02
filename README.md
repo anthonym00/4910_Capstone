@@ -2,18 +2,18 @@
 The purpose of this project was to use the culmination of of my studies and apply them in a project which will serve the purpose of gaining hands on knowledege to what I've learned
 ## Project Summary
 This project was done in groups of three and a summary of the tasks were: 
-  * *Configure a network which was based on a preconfigured network structure*
-  * *Remove any malicous data on the machines that were deployed to the team*
-  * *Configure machines to communicate with each other and establish internet connections*
-  * *Establish a DNS server and use Active Directory*
+  * *Remove any malicous data on the machines that were deployed to the team* -------------------------
+  * *Establish a DNS server and use Active Directory* -------------------------------------------------
+  * *Configure a network which was based on a preconfigured network structure*  DONE ++++++++++++++++++
+  * *Configure machines to communicate with each other and establish internet connections*  DONE ++++++
   * Create three goods and three services
-  * *Host a website which would sell these goods and services to customers*
-  * *Install and configure a database to work with the webserver*
+  * *Install and configure a database to work with the webserver* -------------------------------------
+  * *Host a website which would sell these goods and services to customers* ---------------------------
   * Create backups of the database server
   * Deploy an email server which will be used to communicate with the customers
   * Have network monitoring software which will allow the team to identify threats / unusual traffic
   * Generate logs 
-  * *Run vulnerability scans to determine the networks security*
+  * *Run vulnerability scans to determine the networks security* --------------------------------------
 
 
 ***The italized items were the tasks I was responsible for**
@@ -63,7 +63,17 @@ My solution:
  
 ** At this point all devices can communicate with each other and can access the internet **
 
-##POOP
+## Install and Config Database Server
+I chose to use mySQL as the dtabase server as it is compatible with wordpress (mentioned in [website] section ) and also found it easier to debug any issues if I used a DBMS that I'm familiar with
+
+
+ Installing mySQL on RHEL Client: 
+  1. Using the documetation linked below I successfully set up mySQL on RHEL
+     - [Installing mySQL on Red Hat Enterprise Linux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/configuring_and_using_database_servers/assembly_using-mysql_configuring-and-using-database-servers)
+  2. I wanted to create a seperate mySQL user so the webserver would be the only user who could have access to the database using the new user account
+     - This account will have reduced permissions to reduce the amount of data leaked if a breach occurs
+     - Using the link below I created a user account which is only accessible by a specific ip, in this case from the webservers ip address
+       -[mySql Remote Access](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
 
 
 
