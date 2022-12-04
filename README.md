@@ -181,7 +181,7 @@ Wordpress was used to create our website for its rapid development cycle, ease o
      - Close ports
      - Update systems
      - Encrypt traffic 
-   - 
+   
 ## What I would've changed
    - Task distribution could've been worked on 
    - Increased security at the device level 
