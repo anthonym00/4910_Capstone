@@ -197,6 +197,7 @@ Wordpress was used to create our website for its rapid development cycle, ease o
 ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/good_bad.png?raw=true)
 
 
+
 >Tasks (Green were my responsibility) 
 ![Tasks](https://github.com/me14606/4910_Capstone/blob/main/Images/tasks.png?raw=true)
  
