@@ -1,5 +1,10 @@
 # Enterprise System Administration: CAPSTONE
 The purpose of this project was to use the culmination of my studies in a project which will allow me to apply what I learned in a hands on environment 
+[Test](#DNS / AD)
+
+
+
+
 ## Project Summary
 This project was done in groups of three and a summary of the tasks were: 
   * *Establish a DNS server and use Active Directory*
@@ -150,8 +155,7 @@ Wordpress was used to create our website for its rapid development cycle, ease o
 
 2. Close Ports
    -Every port was looked up to determine their usefulness per machine
-    -If useful, make sure there were no vulnerabilities for the services running on them
-    VULNNNNNNNNNNNNNNNN REPORTTTTTTTTTTTTT AFTERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+    -If useful, make sure there were no vulnerabilities for the services running on the open ports
    -Verify port are closed on machine firewall
    __Some ports/services were only nesssary in their own subnet__
     -Ex) Database only needs one port open to the webserver
