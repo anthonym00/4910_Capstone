@@ -13,7 +13,7 @@ This project was done in groups of three and a summary of the tasks were:
   * Deploy an email server which will be used to communicate with the customers
   * Have network monitoring software which will allow the team to identify threats / unusual traffic
   * Generate logs 
-  * *Run vulnerability scans to determine the networks security* --------------------------------------
+  * *Run vulnerability scans to determine the networks security* ++++++++++++++++++++++++++++++++++++++
 
 
 ***The italized items were the tasks I was responsible for**
@@ -130,7 +130,24 @@ Wordpress was used to create our website for its rapid development cycle, ease o
      - [Vulnerability Reports Before](https://github.com/me14606/4910_Capstone/tree/main/Vulnerablility%20Reports%20Before)
 
 2. Close Ports
+   -Every port was looked up to determine their usefulness per machine
+    -If useful, make sure there were no vulnerabilities for the services running on them
+    VULNNNNNNNNNNNNNNNN REPORTTTTTTTTTTTTT AFTERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+   -Verify port are closed on machine firewall
+   __Some ports/services were only nesssary in their own subnet__
+    -Ex) Database only needs one port open to the webserver
+3. Create firewall rules for each subnet using Pfsense
+   >WAN Firewall Rules
+   ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/wanfw.png?raw=true)
+   ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/wanfw2.png?raw=true)
    
+   >LAN Firewall Rules
+   ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/lanfw.png?raw=true)
+   
+   >DMZ Firewall Rules
+   ![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/dmzfw.png?raw=true)
+   
+4. Post-vulnerability scan to verify rules were applied successfully 
 
 
   
