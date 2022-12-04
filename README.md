@@ -2,8 +2,7 @@
 The purpose of this project was to use the culmination of my studies in a project which will allow me to apply what I learned in a hands on environment 
 ## Project Summary
 This project was done in groups of three and a summary of the tasks were: 
-  * *Remove any malicous data on the machines that were deployed to the team* -------------------------
-  * *Establish a DNS server and use Active Directory* -------------------------------------------------
+  * *Establish a DNS server and use Active Directory*
   * *Configure a network which was based on a preconfigured network structure* 
   * *Configure machines to communicate with each other and establish internet connections* 
   * Create three goods and three services
