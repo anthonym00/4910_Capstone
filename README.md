@@ -1,6 +1,6 @@
 # Enterprise System Administration: CAPSTONE
 The purpose of this project was to use the culmination of my studies in a project which will allow me to apply what I learned in a hands on environment 
-[Test](#DNS / AD)
+
 
 
 
@@ -174,10 +174,19 @@ Wordpress was used to create our website for its rapid development cycle, ease o
 
 
 ## Lessons Leaarned
+   - Prior to this class I had trouble understanding how to route data to different subnets which werent directly accessible to a router 
+     - Through reasearch and trial and error I understood routing works and the purpose of "next-hop"
+   - Ive learned to secure all sides of a network, a strong network firewall doesn't suffice
+     - Add device firewall rules
+     - Close ports
+     - Update systems
+     - Encrypt traffic 
    - 
-
 ## What I would've changed
-   - Task 
+   - Task distribution could've been worked on 
+   - Increased security at the device level 
+   - Adding network Monitors
+   - Adding Traffic monitors
 
 ##  Other Information / Documentation
 
