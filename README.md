@@ -169,6 +169,12 @@ Wordpress was used to create our website for its rapid development cycle, ease o
    
 4. Post-vulnerability scan to verify rules were applied successfully 
 
+##Other Information / Documentation
 
+>KANBAN
+![Kanban](https://github.com/me14606/4910_Capstone/blob/main/Images/kanb.png?raw=true)
+
+>What went well / What didn't go well 
+![Products/Services](https://github.com/me14606/4910_Capstone/blob/main/Images/good_bad.png?raw=true)
   
  
